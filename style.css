@@ -1,0 +1,35 @@
+.top-container{
+    background-color: #A2D2FF;
+   margin: 20px;
+   border:solid 10px;
+   width: 200px;
+   height: 200px;
+   margin: 0px;
+}
+    
+.middle-container{
+ background-color: crimson;
+ width: 200px;
+ height: 200px;
+ margin-left:220px;
+ border:solid 10px;
+
+}
+
+.bottom-container{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 440px;
+    border:solid 10px;
+    
+}
+
+.ah{
+    margin: 0px;
+}
+
+.aj{
+    margin: 0px;
+}
+
